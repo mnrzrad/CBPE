@@ -18,7 +18,7 @@
 #' @return A numeric vector of the estimated coefficients for the specified model.
 #'
 #' @references
-#' Algamal, Z. Y., & Lee, M. H. (2015). Penalized logistic regression with the adaptive LASSO for gene selection in high-dimensional cancer classification. Expert Systems with Applications, 42(23), 9326-9332. \url{https://doi.org/10.1016/j.eswa.2015.08.016}
+#' Algamal, Z. Y., & Lee, M. H. (2015). Penalized logistic regression with the adaptive LASSO for gene selection in high-dimensional cancer classification. Expert Systems with Applications, 42(23), 9326-9332.
 #'
 #' @examples
 #' set.seed(42)

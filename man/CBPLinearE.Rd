@@ -40,5 +40,5 @@ print(result)
 
 }
 \references{
-Tutz, G., Ulbricht, J. (2009). Penalized regression with correlation-based penalty. Stat Comput 19, 239–253.  \href{https://doi.org/10.1007/s11222-008-9088-5}{https://doi.org/10.1007/s11222-008-9088-5}
+Tutz, G., Ulbricht, J. (2009). Penalized regression with correlation-based penalty. Stat Comput 19, 239–253.
 }
