@@ -1,0 +1,21 @@
+Package: CBPE
+Type: Package
+Title: Corelation-Based Penalized Estimators
+Version: 0.1.0
+Authors@R: c(
+    person("Mohammad", "Arashi", email = "arashi@um.ac.ir", role = c('ctb'), comment = c(ORCID = "0000-0002-5881-9241")),
+    person("Mahdi", "Rahimi", email = "mahdi.rahimi@hotmail.com", role = c('ctb')),
+    person("Mina", "Norouzirad", email = "mina.norouzirad@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-0311-6888")),
+    person("FCT, I.P.", role = "fnd", comment = c("under the scope of the projects UIDB/00297/2020 and UIDP/00297/2020 (NovaMath)"))
+    )
+Maintainer: Mina Norouzirad <mina.norouzirad@gmail.com>
+Description: Provides the corelation-based penalty estimators for linear and logisitic regression models. See <doi:10.1007/s11222-008-9088-5> and <doi:10.1016/j.eswa.2015.08.016>.
+License: GPL (>= 2)
+URL: https://github.com/mnrzrad/PenCB
+Encoding: UTF-8
+LazyData: false
+RoxygenNote: 7.3.1
+Depends:
+    R (>= 3.5)
+Imports:
+  stats
