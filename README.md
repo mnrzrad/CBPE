@@ -41,7 +41,7 @@ Corelation-Based Penalized Estimators*. R package version 0.1.0,
 A BibTeX entry for LaTeX users is
 
 @Manual{CBPE, title = {CBPE: Corelation-Based Penalized Estimators},
-author = {Arashi, M., Rahimi, M., Norouzirad, M.}, year = {2024}, note = {R package version 0.1.0}, url =
+author = {Arashi, M. and  Rahimi, M. and  Norouzirad, M.}, year = {2024}, note = {R package version 0.1.0}, url =
 {<https://cran.r-project.org/package=CBPE>} }
 
 ## License
