@@ -8,12 +8,9 @@ month](https://cranlogs.r-pkg.org/badges/CBPE)](https://cran.r-project.org/packa
 Downloads](https://cranlogs.r-pkg.org/badges/grand-total/CBPE)](https://cran.r-project.org/package=CBPE)
 [![Licence](https://img.shields.io/badge/licence-GPL--3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-The R package *CBPE* Provides the correlation-based penalty estimators for linear and logistic regression models.
+The R package *CBPE* provides the correlation-based penalty estimators for linear and logistic regression models.
 
-This work is funded by national funds through the FCT - Fundação para a
-Ciência e a Tecnologia, I.P., under the scope of the projects
-UIDB/00297/2020 and UIDP/00297/2020 (Center for Mathematics and
-Applications)".
+This work is funded by national funds through the FCT - Fundação para a Ciência e a Tecnologia, I.P., under the scope of the projects UIDB/00297/2020 and UIDP/00297/2020 (Center for Mathematics and Applications)".
 
 ## Installation
 
