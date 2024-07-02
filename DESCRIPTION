@@ -9,7 +9,7 @@ Authors@R: c(
     person("FCT, I.P.", role = "fnd", comment = c("under the scope of the projects UIDB/00297/2020 and UIDP/00297/2020 (NovaMath)"))
     )
 Maintainer: Mina Norouzirad <mina.norouzirad@gmail.com>
-Description: Provides the correlation-based penalty estimators for linear and logistic regression models. See <doi:10.1007/s11222-008-9088-5> and <doi:10.1016/j.eswa.2015.08.016>.
+Description: Provides correlation-based penalty estimators for both linear and logistic regression models by implementing a new regularization method that incorporates correlation structures within the data. This method encourages a grouping effect where strongly correlated predictors tend to be in or out of the model together. See Tutz and Ulbricht (2009) <doi:10.1007/s11222-008-9088-5> and Algamal and Lee (2015) <doi:10.1016/j.eswa.2015.08.016>.
 License: GPL (>= 2)
 URL: https://github.com/mnrzrad/CBPE
 Encoding: UTF-8
