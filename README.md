@@ -8,12 +8,9 @@ month](https://cranlogs.r-pkg.org/badges/CBPE)](https://cran.r-project.org/packa
 Downloads](https://cranlogs.r-pkg.org/badges/grand-total/CBPE)](https://cran.r-project.org/package=CBPE)
 [![Licence](https://img.shields.io/badge/licence-GPL--3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-The R package *CBPE* Provides the corelation-based penalty estimators for linear and logisitic regression models.
+The R package *CBPE* provides the correlation-based penalty estimators for linear and logistic regression models.
 
-This work is funded by national funds through the FCT - Fundação para a
-Ciência e a Tecnologia, I.P., under the scope of the projects
-UIDB/00297/2020 and UIDP/00297/2020 (Center for Mathematics and
-Applications)".
+This work is funded by national funds through the FCT - Fundação para a Ciência e a Tecnologia, I.P., under the scope of the projects UIDB/00297/2020 and UIDP/00297/2020 (Center for Mathematics and Applications)".
 
 ## Installation
 
@@ -35,13 +32,13 @@ remotes::install_github("mnrzrad/CBPE")
 ## To cite package `CBPE` in publications use:
 
 Arashi, M., Rahimi, M., Norouzirad, M. (2024) *CBPE:
-Corelation-Based Penalized Estimators*. R package version 0.1.0,
+Correlation-Based Penalized Estimators*. R package version 0.1.0,
 <https://cran.r-project.org/package=CBPE>.
 
 A BibTeX entry for LaTeX users is
 
-@Manual{CBPE, title = {CBPE: Corelation-Based Penalized Estimators},
-author = {Arashi, M., Rahimi, M., Norouzirad, M.}, year = {2024}, note = {R package version 0.1.0}, url =
+@Manual{CBPE, title = {CBPE: Correlation-Based Penalized Estimators},
+author = {Arashi, M. and  Rahimi, M. and  Norouzirad, M.}, year = {2024}, note = {R package version 0.1.0}, url =
 {<https://cran.r-project.org/package=CBPE>} }
 
 ## License
