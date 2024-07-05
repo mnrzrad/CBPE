@@ -1,11 +1,11 @@
 logReg <- function(X, Y, max_iter = 100, tol = 1e-10) {
-  X <- scale(X)
-  X <- cbind(1, X)  # Add intercept term
+  # X <- scale(X)
+  X <- cbind(1, X)
+  X <- as.matrix(X)
 
-  # Initialize parameters
   n <- nrow(X)
   p <- ncol(X)
-  beta <- rep(0, p)
+  beta <- as.matrix(rep(0, p))
   converged <- FALSE
 
   for (iter in 1:max_iter) {
@@ -36,3 +36,5 @@ logReg <- function(X, Y, max_iter = 100, tol = 1e-10) {
 
   return(list(beta = beta, converged = converged, iterations = iter, W = W, z = z))
 }
+
+
