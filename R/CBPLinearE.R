@@ -53,3 +53,5 @@ CBPLinearE <- function(X, y, lambda) {
 
   return(as.vector(est))
 }
+
+#for test
